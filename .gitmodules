@@ -1,0 +1,3 @@
+[submodule "libromancy"]
+	path = .libromancy
+	url = git@github.com:rohit507/libromancy.git
